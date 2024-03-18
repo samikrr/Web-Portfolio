@@ -12,7 +12,7 @@ nav ul li a {
     text-decoration: none;
 }
 nav ul li a:hover {
-    color: #666; /* Change as per your preference */
+    color: #666; 
 }
 body, h1, h2, h3, p, ul, li, blockquote {
     margin: 0;
